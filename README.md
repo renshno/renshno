@@ -11,6 +11,8 @@ alt="WHY BASH" width="560" height="315" border="10" /></a>
 
 ### BASH! Files and Directories
 
+[Link to video] (https://youtu.be/9uUl8Iv2t6E)
+
 ```markdown
 
 
