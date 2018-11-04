@@ -2,6 +2,11 @@
 
 ### BASH! Why BASH?
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ToCwNHh6Faw
+" target="_blank"><img src="http://img.youtube.com/vi/ToCwNHh6Faw/0.jpg" 
+alt="WHY BASH" width="240" height="180" border="10" /></a>
+
+
 https://www.youtube.com/watch?v=ToCwNHh6Faw
 
 ### BASH! Files and Directories
