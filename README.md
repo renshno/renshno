@@ -7,7 +7,7 @@
 alt="WHY BASH" width="240" height="180" border="10" /></a>
 
 
-https://www.youtube.com/watch?v=ToCwNHh6Faw
+[Link to video (]https://www.youtube.com/watch?v=ToCwNHh6Faw)
 
 ### BASH! Files and Directories
 
