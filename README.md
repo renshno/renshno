@@ -1,6 +1,7 @@
 ## Practice - working in BASH
 
 ### BASH! Why BASH?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ToCwNHh6Faw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
