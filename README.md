@@ -1,9 +1,10 @@
 ## Practice - working in BASH
 
 ### BASH! Why BASH?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ToCwNHh6Faw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://www.youtube.com/watch?v=ToCwNHh6Faw
+
+### BASH! Files and Directories
 
 ```markdown
 Syntax highlighted code block
@@ -22,3 +23,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### BASH! BASH! Editing Options in BASH
