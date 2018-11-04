@@ -12,20 +12,37 @@ alt="WHY BASH" width="240" height="180" border="10" /></a>
 ### BASH! Files and Directories
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+C:\Users\R>bash
+R@DESKTOP-P3LIR44:/mnt/c/Users/R$ pwd
+/mnt/c/Users/R
 
-1. Numbered
-2. List
+R@DESKTOP-P3LIR44:/mnt/c/Users/Ri$ cd Desktop/
 
-**Bold** and _Italic_ and `Code` text
+R@DESKTOP-P3LIR44:/mnt/c/Users/R/Desktop$ pwd
+/mnt/c/Users/R/Desktop
 
-[Link](url) and ![Image](src)
+R@DESKTOP-P3LIR44:/mnt/c/Users/R/Desktop$ ls
+'Android Studio.lnk'  'Microsoft Edge.lnk'   folder1                          ice_video_20181104-225922.webm
+'GitHub Desktop.lnk'   desktop.ini           ice_video_20181104-225812.webm   ice_video_20181104-230438.webm
+
+R@DESKTOP-P3LIR44:/mnt/c/Users/R/Desktop$ tree
+.
+├── Android Studio.lnk
+├── GitHub Desktop.lnk
+├── Microsoft Edge.lnk
+├── desktop.ini
+├── folder1
+│   └── folder2
+├── ice_video_20181104-225812.webm
+├── ice_video_20181104-225922.webm
+└── ice_video_20181104-230438.webm
+
+2 directories, 7 files
+R@DESKTOP-P3LIR44:/mnt/c/Users/R/Desktop$ cd folder1/
+
+R@DESKTOP-P3LIR44:/mnt/c/Users/R/Desktop/folder1$ cd ..
+R@DESKTOP-P3LIR44:/mnt/c/Users/Reirei/Desktop$
 ```
-### BASH! BASH! Editing Options in BASH
+###  BASH! Editing Options in BASH
