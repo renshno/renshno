@@ -11,7 +11,11 @@ alt="WHY BASH" width="560" height="315" border="10" /></a>
 
 ### BASH! Files and Directories
 
-[Link to video] (https://youtu.be/9uUl8Iv2t6E)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9uUl8Iv2t6E
+" target="_blank"><img src="http://img.youtube.com/vi/9uUl8Iv2t6E/0.jpg" 
+alt="BASH DIRECTORIES" width="560" height="315" border="10" /></a>
+
+[Link to video](https://youtu.be/9uUl8Iv2t6E)
 
 ```markdown
 
