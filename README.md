@@ -52,3 +52,35 @@ R@DESKTOP-P3LIR44:/mnt/c/Users/R/Desktop/folder1$ **cd ..**
 R@DESKTOP-P3LIR44:/mnt/c/Users/Reirei/Desktop$
 ```
 ###  BASH! Editing Options in BASH
+```markdown
+##Tab completition
+tab -> autofill if it's possible
+tab twice -> gives possible auto completition option
+
+##Basic Shell Movement
+ctrl+a -> cursor to the beginning of line
+ctrl+e -> cursor to the end of line
+alt+f -> cursor forward one word
+alt+b-> cursor backward one word
+
+##Search History
+ctrl+r - reverse history search
+(start to type the command) 
+ctrl+g - get back
+
+##Clear Terminal
+ctrl+l 
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
