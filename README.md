@@ -71,16 +71,4 @@ ctrl+g - get back
 ##Clear Terminal
 ctrl+l 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ```
