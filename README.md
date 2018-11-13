@@ -52,6 +52,12 @@ R@DESKTOP-P3LIR44:/mnt/c/Users/R/Desktop/folder1$ **cd ..**
 R@DESKTOP-P3LIR44:/mnt/c/Users/Reirei/Desktop$
 ```
 ###  BASH! Editing Options in BASH
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VR9XDZS9Pho
+" target="_blank"><img src="http://img.youtube.com/vi/VR9XDZS9PhoE/0.jpg" 
+alt="BASH DIRECTORIES" width="560" height="315" border="10" /></a>
+[Link to video](https://youtu.be/R9XDZS9Pho)
+
+
 ```markdown
 ##Tab completition
 tab -> autofill if it's possible
