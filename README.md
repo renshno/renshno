@@ -81,5 +81,5 @@ ctrl+l
 ###  Blender animation
 <a href="https://www.youtube.com/watch?v=Jkfr95GzhgM&feature=youtu.be
 " target="_blank"><img src="http://img.youtube.com/vi/Jkfr95Gzhg/0.jpg" 
-alt="BASH Editing Options" width="560" height="315" border="10" /></a>
+alt="Blender animation" width="560" height="315" border="10" /></a>
 [Link to video](https://www.youtube.com/watch?v=Jkfr95GzhgM&feature=youtu.be)
